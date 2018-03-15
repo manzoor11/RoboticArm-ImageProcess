@@ -1,0 +1,34 @@
+G:\Works\Arm\VB\my work\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+G:\Works\Arm\VB\my work\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+G:\Works\Arm\VB\my work\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+G:\Works\Arm\VB\my work\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+G:\Works\Arm\VB\my work\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+G:\Works\Arm\VB\my work\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+G:\Works\Arm\VB\my work\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Emgu.CV.UI.dll
+G:\Works\Arm\VB\my work\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Emgu.Util.dll
+G:\Works\Arm\VB\my work\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\ZedGraph.dll
+G:\Works\Arm\VB\my work\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Emgu.CV.dll
+G:\Works\Arm\VB\my work\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Emgu.CV.UI.xml
+G:\Works\Arm\VB\my work\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Emgu.Util.xml
+G:\Works\Arm\VB\my work\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Emgu.CV.xml
+G:\Works\Arm\VB\my work\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Camaracapture.resources
+G:\Works\Arm\VB\my work\Camera working\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+G:\Works\Arm\VB\my work\Camera working\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+G:\Works\Arm\VB\my work\Camera working\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Camaracapture.resources
+G:\Works\Arm\VB\my work\Camera working\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+G:\Works\Arm\VB\my work\Camera working\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+G:\Works\Arm\VB\my work\Camera working\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+G:\Works\Arm\VB\my work\Camera working\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+G:\Works\Arm\VB\my work\Camera working\WindowsFormsApplication1\bin\Debug\ZedGraph.dll
+G:\Works\Arm\VB\my work\Camera working\WindowsFormsApplication1\bin\Debug\Emgu.CV.xml
+G:\Works\Arm\VB\my work\Camera working\WindowsFormsApplication1\bin\Debug\Emgu.CV.UI.xml
+G:\Works\Arm\VB\my work\Camera working\WindowsFormsApplication1\bin\Debug\Emgu.Util.xml
+G:\Works\Arm\VB\my work\Camera working\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+E:\Works\Arm\VB\my work\Camera working\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+E:\Works\Arm\VB\my work\Camera working\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+E:\Works\Arm\VB\my work\Camera working\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Camaracapture.resources
+E:\Works\Arm\VB\my work\Camera working\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\Works\Arm\VB\my work\Camera working\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+E:\Works\Arm\VB\my work\Camera working\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+E:\Works\Arm\VB\my work\Camera working\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+E:\Works\Arm\VB\my work\Camera working\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache

@@ -1,0 +1,11 @@
+E:\Works\Arm\VB\my work\Camera working\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+E:\Works\Arm\VB\my work\Camera working\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+E:\Works\Arm\VB\my work\Camera working\WindowsFormsApplication1\bin\Debug\ZedGraph.dll
+E:\Works\Arm\VB\my work\Camera working\WindowsFormsApplication1\bin\Debug\Emgu.CV.xml
+E:\Works\Arm\VB\my work\Camera working\WindowsFormsApplication1\bin\Debug\Emgu.CV.UI.xml
+E:\Works\Arm\VB\my work\Camera working\WindowsFormsApplication1\bin\Debug\Emgu.Util.xml
+E:\Works\Arm\VB\my work\Camera working\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Camaracapture.resources
+E:\Works\Arm\VB\my work\Camera working\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\Works\Arm\VB\my work\Camera working\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+E:\Works\Arm\VB\my work\Camera working\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+E:\Works\Arm\VB\my work\Camera working\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
